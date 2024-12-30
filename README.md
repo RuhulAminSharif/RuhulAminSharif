@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Competetive+Programmer;Machine+Learning+Enthusiasts&center=true&width=500&height=45" alt="Tonmoyhridhaan">
 </p>
 
-<h2 style="color: #36BCF7FF;" align="center"> 💫 About Me</h2> 
+<h2 style="color: #36BCF7FF;"> 💫 About Me</h2> 
 <p>I am a fouth-year undergraduate student at Premier University Chattogram studying Computer Science and Engineering. I am highly interested in <strong>algorithmic problem-solving.</strong></p>  
 
 <ul>  
@@ -19,7 +19,7 @@
   <li>📄 My <a href="https://flowcv.com/resume/ehrfeb5slc">Resume</a></li>  
 </ul>
 
-<h2 style="color: #36BCF7FF;" align="center"> 💻 Tech & Tool Stack </h2>
+<h2 style="color: #36BCF7FF;"> 💻 Tech & Tool Stack </h2>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -89,7 +89,7 @@
     </kbd>
   </p>
 </div>
-<h2 style="color: #36BCF7FF;" align=center>🌐 Connect with Me</h2>
+<h2 style="color: #36BCF7FF;">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/the-boolean-nerd/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
@@ -102,7 +102,7 @@
   </a> -->
 </p>
 
-<h2>📊 GitHub Stats</h2>
+<h2 style="color: #36BCF7FF;">📊 GitHub Stats</h2>
 
 <!-- Section 1: Streak Stats -->
 <div align="center">
