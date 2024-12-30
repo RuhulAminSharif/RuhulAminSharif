@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/the_boolean_nerd"><img src="https://api.daily.dev/devcards/v2/qEBDVCOejdvutadOPpACa.png?type=wide&r=ssf" width="652" alt="Ruhul Amin Sharif's Dev Card"/></a>
+
 ## Hi there 👋
 
 <!--
