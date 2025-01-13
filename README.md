@@ -93,41 +93,4 @@
   </a> -->
 </p>
 
-<h2 style="color: #36BCF7FF;">📊 GitHub Stats</h2>
-
-<!-- Section 1: Streak Stats -->
-<div align="center">
-  <h3>🔥 Streak Stats</h3>
-  <a href="https://github.com/RuhulAminSharif">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RuhulAminSharif&theme=dark" alt="GitHub Streak Stats" />
-  </a>
-</div>
-
-<!-- Section 2: Language and Overview Stats -->
-<div align="center">
-  <h3>📜 Language and Overview</h3>
-  <a align="center" href="https://github.com/RuhulAminSharif/github-stats">
-    <img src="https://github.com/RuhulAminSharif/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" />
-    <img src="https://github.com/RuhulAminSharif/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages Stats" />
-  </a>
-</div>
-
-<!-- Section 3: Profile Summary and Details -->
-<div align="center">
-  <h3>📊 Profile Summary and Details</h3>
-  <a href="https://github.com/RuhulAminSharif">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuhulAminSharif&theme=dark" alt="Most Commit Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuhulAminSharif&theme=dark" alt="Repositories Per Language" /> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuhulAminSharif&theme=dark" alt="Stats Card" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuhulAminSharif&theme=dark&utcOffset=8" alt="Productive Time" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuhulAminSharif&theme=dark" alt="GitHub Profile Details" />
-  </a>
-</div>
-
-<!-- Section 4: Github Trophy -->
-<div align="center">
-  <h3>🏆 GitHub Trophy</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RuhulAminSharif" alt="GitHub Trophies" />
-  </a>
-</div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
