@@ -1,9 +1,6 @@
-<div align="center">
-  <a href="https://app.daily.dev/the_boolean_nerd">
-    <img src="https://api.daily.dev/devcards/v2/qEBDVCOejdvutadOPpACa.png?type=wide&r=ssf" width="652" alt="Ruhul Amin Sharif's Dev Card"/>
-  </a>
-</div>
+![logo](https://github.com/RuhulAminSharif/RuhulAminSharif/blob/main/banner.jpeg)
 
+<h1 align="center">Hi 👋, I'm Ruhul Amin Sharif</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Competetive+Programmer;Machine+Learning+Enthusiasts&center=true&width=500&height=45" alt="Tonmoyhridhaan">
 </p>
@@ -12,10 +9,10 @@
 <p>I am a fouth-year undergraduate student at Premier University Chattogram studying Computer Science and Engineering. I am highly interested in <strong>algorithmic problem-solving.</strong></p>  
 
 <ul>  
-  <li>👯 I’m open to collaborating on <strong>Android App Development</strong> using Flutter</li>  
-  <li>🌱 Currently learning <strong>ML</strong> to cope with present and future tech.</li>  
+  <li>🔭 I’m currently studying in <strong>Computer Science and Engineering</strong></li>
+  <li>👯 I’m open to collaborating on <strong>Laravel Development</strong></li>  
+  <li>🌱 I'm currently learning <strong>Machine Learning and Deep Learning</strong>.</li>  
   <li>📫 You can reach me at <a href="mailto:sharif.cse.ras@gmail.com">sharif.cse.ras@gmail.com</a></li>  
-<!--   <li>👨‍💻 Check out my projects on my <a href="https://shahadathhs.vercel.app">Portfolio</a></li>   -->
   <li>📄 My <a href="https://flowcv.com/resume/ehrfeb5slc">Resume</a></li>  
 </ul>
 
@@ -88,11 +85,31 @@
   <a href="mailto:sharif.cse.ras@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
-<!--   <a href="https://twitter.com/shahadathhs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
-  </a> -->
 </p>
 
-<h2 style="color: #36BCF7FF;">📊 GitHub Stats</h2>  
+<h2 style="color: #36BCF7FF;">📊 My Stats</h2>  
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+  <a href="https://app.daily.dev/the_boolean_nerd">
+    <img src="https://api.daily.dev/devcards/v2/qEBDVCOejdvutadOPpACa.png?type=wide&r=ssf" width="652" alt="Ruhul Amin Sharif's Dev Card"/>
+  </a>
+</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)  
+
+<!-- Section 2: Language and Overview Stats -->
+<div align="center">
+  <h3>📜 Language and Overview</h3>
+  <a align="center" href="https://github.com/shahadathhs/github-stats">
+    <img src="https://github.com/RuhulAminSharif/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" />
+    <img src="https://github.com/RuhulAminSharif/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages Stats" />
+  </a>
+</div>
+
+<!-- Section 3: GitHub Activity Graph -->
+<div align="center">
+  <h3>📈 GitHub Activity Graph</h3>
+  <a href="https://github.com/RuhulAminSharif">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuhulAminSharif" alt="GitHub Activity Graph" />
+  </a>
+</div>
