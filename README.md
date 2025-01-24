@@ -38,13 +38,13 @@
 <!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> -->
     </kbd>
-     <kbd>
-      <kbd>Mobile App</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+<!--      <kbd> -->
+<!--       <kbd>Mobile App</kbd> -->
+<!--       <br> -->
+<!--       <br> -->
+<!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" /> -->
 <!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> -->
-    </kbd>
+<!--     </kbd> -->
     <kbd>
       <kbd>Front-end</kbd>
       <br>
@@ -88,14 +88,20 @@
 </p>
 
 <h2 style="color: #36BCF7FF;">📊 My Stats</h2>  
-
+<!--
 <div align="center">
   <a href="https://app.daily.dev/the_boolean_nerd">
     <img src="https://api.daily.dev/devcards/v2/qEBDVCOejdvutadOPpACa.png?type=wide&r=ssf" width="652" alt="Ruhul Amin Sharif's Dev Card"/>
   </a>
 </div>
+-->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)  
+<div align="center">
+  <h3>📈 GitHub Activity Graph</h3>
+  <a href="https://github.com/RuhulAminSharif">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuhulAminSharif" alt="GitHub Activity Graph" />
+  </a>
+</div>
 
 <!-- Section 2: Language and Overview Stats -->
 <div align="center">
@@ -106,10 +112,6 @@
   </a>
 </div>
 
-<!-- Section 3: GitHub Activity Graph -->
-<div align="center">
-  <h3>📈 GitHub Activity Graph</h3>
-  <a href="https://github.com/RuhulAminSharif">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuhulAminSharif" alt="GitHub Activity Graph" />
-  </a>
-</div>
+<h3 align="center">Last Year Stat</h3>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
