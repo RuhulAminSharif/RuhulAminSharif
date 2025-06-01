@@ -14,7 +14,6 @@
   <li>🌱 I'm currently learning <strong>Machine Learning and Deep Learning</strong>.</li>  
   <li> 👨‍💻 All of my projects are available at https://linkmix.co/38238046 </li>
   <li>📫 You can reach me at <a href="mailto:sharif.cse.ras@gmail.com">sharif.cse.ras@gmail.com</a></li>  
-  <li>📄 My <a href="https://drive.google.com/drive/folders/1hIwcraAWG04PKpyKRHiL81oE16os7hlD?usp=sharing">Resume</a></li>  
 </ul>
 
 <h2 style="color: #36BCF7FF;"> 💻 Tech & Tool Stack </h2>
