@@ -1,20 +1,35 @@
-![logo](https://github.com/RuhulAminSharif/RuhulAminSharif/blob/main/banner.jpeg)
+<div align="center">
+  
+  # Hi there, I'm Ruhul Amin Sharif! 👋
 
-<h1 align="center">Hi 👋, I'm Ruhul Amin Sharif</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Competetive+Programmer;Machine+Learning+Enthusiasts&center=true&width=500&height=45" alt="Tonmoyhridhaan">
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Competetive+Programmer;Machine+Learning+Enthusiasts&center=true&width=500&height=45" alt="Ruhul Amin Sharif">
 
-<h2 style="color: #36BCF7FF;"> 💫 About Me</h2> 
-<p>I am a fouth-year undergraduate student at Premier University Chattogram studying Computer Science and Engineering. I am highly interested in <strong>algorithmic problem-solving.</strong></p>  
+  <p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+    <a href="[Your-LinkedIn-URL]" >
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="[Your-Kaggle-URL]">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+    </a>
+    <a href="[Your-Portfolio-URL]">
+      <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="mailto:[Your-Email]">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </p>
+</div>
 
-<ul>  
-  <li>🔭 I’m currently studying in <strong>Computer Science and Engineering</strong></li>
-  <li>👯 I’m open to collaborating on <strong>Laravel Development</strong></li>  
-  <li>🌱 I'm currently learning <strong>Machine Learning and Deep Learning</strong>.</li>  
-  <li> 👨‍💻 All of my projects are available at https://linkmix.co/38238046 </li>
-  <li>📫 You can reach me at <a href="mailto:sharif.cse.ras@gmail.com">sharif.cse.ras@gmail.com</a></li>  
-</ul>
+### 🔭 About Me
+
+👋 Hello! I'm Ruhul Amin Sharif, a passionate Computer Vision enthusiast and aspiring Machine Learning engineer.
+
+- 🎓 I'm currently a Computer Science and Engineering (CSE) student at **Premier University, Chittagong**.
+- 🌱 I'm currently learning and exploring **Egocentric AI**.
+- 🤖 My primary focus is on **Computer Vision** and the cutting-edge field of **Egocentric AI** (**first-person vision**). I'm fascinated by the challenge of analyzing data from a first-person perspective to understand human activities and interactions.
+- 📫 How to reach me: <a href="mailto:sharif.cse.ras@gmail.com">sharif.cse.ras@gmail.com</a>
+- ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code!
 
 <h2 style="color: #36BCF7FF;"> 💻 Tech & Tool Stack </h2>
 <div>
@@ -77,41 +92,28 @@
     </kbd>
   </p>
 </div>
-<h2 style="color: #36BCF7FF;">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/the-boolean-nerd/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sharif.cse.ras@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
-  </a>
-</p>
 
-<h2 style="color: #36BCF7FF;">📊 My Stats</h2>  
-<!--
-<div align="center">
-  <a href="https://app.daily.dev/the_boolean_nerd">
-    <img src="https://api.daily.dev/devcards/v2/qEBDVCOejdvutadOPpACa.png?type=wide&r=ssf" width="652" alt="Ruhul Amin Sharif's Dev Card"/>
-  </a>
-</div>
--->
+
+### 📊 My GitHub Stats
 
 <div align="center">
   <h3>📈 GitHub Activity Graph</h3>
   <a href="https://github.com/RuhulAminSharif">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuhulAminSharif" alt="GitHub Activity Graph" />
   </a>
+  <div >
+      <h3>📜 Language and Overview</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminSharif&layout=compact&theme=radical" alt="Top Languages" />
+    </div>
+  <br/>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+    <div>
+      <h3>📜 Overall GitHub Stats</h3>  
+      <img src="https://github-readme-stats.vercel.app/api?username=RuhulAminSharif&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </div>
+    <div >
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuhulAminSharif&theme=radical" alt="GitHub Streak" />
+    </div>
+  </div>
 </div>
-
-<!-- Section 2: Language and Overview Stats -->
-<div align="center">
-  <h3>📜 Language and Overview</h3>
-  <a align="center" href="https://github.com/shahadathhs/github-stats">
-    <img src="https://github.com/RuhulAminSharif/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" />
-    <img src="https://github.com/RuhulAminSharif/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages Stats" />
-  </a>
-</div>
-
-<h3 align="center">Last Year Stat</h3>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
