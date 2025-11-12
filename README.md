@@ -1,3 +1,5 @@
+<img src="./banner.jpeg" alt="Ruhul Amin Sharif" />
+
 <div align="center">
   
   # Hi there, I'm Ruhul Amin Sharif! 👋
@@ -6,16 +8,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Competetive+Programmer;Machine+Learning+Enthusiasts&center=true&width=500&height=45" alt="Ruhul Amin Sharif">
 
   <p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-    <a href="[Your-LinkedIn-URL]" >
+    <a href="https://www.linkedin.com/in/the-boolean-nerd/" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="[Your-Kaggle-URL]">
+    <a href="https://www.kaggle.com/ruhulaminsharif">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
-    <a href="[Your-Portfolio-URL]">
+    <a href="https://ruhul-amin-sharif.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="mailto:[Your-Email]">
+    <a href="mailto:sharif.cse.ras@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </p>
@@ -92,7 +94,6 @@
     </kbd>
   </p>
 </div>
-
 
 ### 📊 My GitHub Stats
 
