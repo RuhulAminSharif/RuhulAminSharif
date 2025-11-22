@@ -28,6 +28,7 @@
 👋 Hello! I'm Ruhul Amin Sharif, a passionate Computer Vision enthusiast and aspiring Machine Learning engineer.
 
 - 🎓 I'm currently a Computer Science and Engineering (CSE) student at **Premier University, Chittagong**.
+- 🌱 I'm open to collaborate in **MERN-based** project.
 - 🌱 I'm currently learning and exploring **Egocentric AI**.
 - 🤖 My primary focus is on **Computer Vision** and the cutting-edge field of **Egocentric AI** (**first-person vision**). I'm fascinated by the challenge of analyzing data from a first-person perspective to understand human activities and interactions.
 - 📫 How to reach me: <a href="mailto:sharif.cse.ras@gmail.com">sharif.cse.ras@gmail.com</a>
