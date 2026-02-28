@@ -101,17 +101,24 @@
 <div align="center">
   <h3>📈 GitHub Activity Graph</h3>
   <a href="https://github.com/RuhulAminSharif">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuhulAminSharif" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuhulAminSharif&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" />
   </a>
   <div >
       <h3>📜 Language and Overview</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAminSharif&layout=compact&theme=radical" alt="Top Languages" />
+      <div align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuhulAminSharif&theme=react" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuhulAminSharif&theme=react" />
+      </div>
     </div>
   <br/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
     <div>
       <h3>📜 Overall GitHub Stats</h3>  
-      <img src="https://github-readme-stats.vercel.app/api?username=RuhulAminSharif&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <div align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuhulAminSharif&theme=react" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuhulAminSharif&theme=react&utcOffset=6" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuhulAminSharif&theme=react" />
+      </div>
     </div>
     <div >
       <h3>🔥 GitHub Streak</h3>
